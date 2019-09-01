@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9cb7da9-63f6-42bc-b38f-53738ad6f790" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Decoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Decoder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567362283962</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fixed the order, list starts at lowercase by using the .lower() method">
+      <created>1567362951730</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567362951730</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +97,7 @@
     <MESSAGE value="repo done" />
     <MESSAGE value="added decoder file along with a test key file&#10;worked on reading, writing, and sorting.&#10;need to take input of specified files, remove punctuation and have it sorted in case sensitive." />
     <MESSAGE value="Removed the punctuation using re.sub()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed the punctuation using re.sub()" />
+    <MESSAGE value="Fixed the order, list starts at lowercase by using the .lower() method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed the order, list starts at lowercase by using the .lower() method" />
   </component>
 </project>

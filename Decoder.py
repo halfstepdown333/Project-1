@@ -1,4 +1,20 @@
 import re
+import os
+import sys
+
+# set input and output files taken from wordCountTest.py in project repo
+if len(sys.argv) is not 3:
+    print("Correct usage: Decoder.py <input text file> <output file> ")
+    exit()
+
+userInput = sys.argv[1]
+outputFile = sys.argv[2]
+
+#first check to make sure program exists
+if not os.path.exists("wordCount.py"):
+    print ("wordCount.py doesn't exist! Exiting")
+    exit()
+
 
 
 with open("speech.txt", "r") as f:
