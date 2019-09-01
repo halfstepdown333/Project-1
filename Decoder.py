@@ -33,7 +33,7 @@ for word in words:
         counts[word.lower()] = 1   #Else word was only found once
 
 tf = open(outputFile, "w+")
-for x, y in sorted(counts.items()):    #writes to file items of the dictionary 
+for x, y in sorted(counts.items()):    #writes to file items of the dictionary
     tf.write(str(x) + ' : ' + str(y) + '\n')
 
 tf.close()

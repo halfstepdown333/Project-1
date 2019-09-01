@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9cb7da9-63f6-42bc-b38f-53738ad6f790" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Project_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/wordCountTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Decoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Decoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567363594892</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Tested program using the terminal and created the final test included in speechTest.txt">
+      <created>1567367350685</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567367350685</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tested program using the terminal and created the final test included in speechTest.txt">
+      <created>1567367362877</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567367362877</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +136,7 @@
     <MESSAGE value="Fixed the order, list starts at lowercase by using the .lower() method" />
     <MESSAGE value="Started to implement user in put to match the description in the readMe and remoce harcoded name files." />
     <MESSAGE value="comment insertions" />
-    <option name="LAST_COMMIT_MESSAGE" value="comment insertions" />
+    <MESSAGE value="Tested program using the terminal and created the final test included in speechTest.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tested program using the terminal and created the final test included in speechTest.txt" />
   </component>
 </project>

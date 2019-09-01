@@ -1,3 +1,24 @@
+# Word Counter-Project 1- OS
+
+This directory contains:
+* code that implements a simple word counter, text files, and keys
+* a demo program that checks Decoder to the provided keys
+
+This demo contains the following files:
+ Decoder.py: Reads and writes to from and to a file the counted  individual words of a text file
+ speechTest.txt: Output written to this file when Decoder.py is executed
+
+To test Decoder.py, try:
+~~~
+$ python Dcoder.py speech.txt speechTest.txt
+~~~
+
+To check against the provided keys:
+~~~
+$ python wordCountTest.py declaration.txt myOutput.txt declarationKey.txt
+~~~
+
+# Original Lab Instructions
 This repository contains the code for the python introduction lab. The
 purpose is to have a fairly simple python assignment that introduces
 the basic features and tools of python
