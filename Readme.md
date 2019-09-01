@@ -18,9 +18,9 @@ To check against the provided keys:
 $ python wordCountTest.py declaration.txt myOutput.txt declarationKey.txt
 ~~~
 # References
-*https://www.geeksforgeeks.org/sorted-function-python/
-*https://www.pythonforbeginners.com/files/reading-and-writing-files-in-python
-*https://stackoverflow.com/questions/5843518/remove-all-special-characters-punctuation-and-spaces-from-string
+* https://www.geeksforgeeks.org/sorted-function-python/
+* https://www.pythonforbeginners.com/files/reading-and-writing-files-in-python
+* https://stackoverflow.com/questions/5843518/remove-all-special-characters-punctuation-and-spaces-from-string
 
 # Original Lab Instructions
 This repository contains the code for the python introduction lab. The
