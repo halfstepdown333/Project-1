@@ -11,12 +11,12 @@ counts = dict()
 
 for word in words:
     if word in counts:
-        counts[word] += 1
+        counts[word.lower()] += 1
     else:
-        counts[word] = 1
+        counts[word.lower()] = 1
 
 tf = open("test.txt", "w")
-for x, y in sorted(counts.items()):
+for x, y in sorted(counts.items(),key=str, reverse=False):
     tf.write(str(x) + ' : ' + str(y) + '\n')
 
 tf.close()
