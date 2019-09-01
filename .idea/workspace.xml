@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9cb7da9-63f6-42bc-b38f-53738ad6f790" name="Default Changelist" comment="repo done">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Project-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project-1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f9cb7da9-63f6-42bc-b38f-53738ad6f790" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/speech.txt" beforeDir="false" afterPath="$PROJECT_DIR$/speech.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Decoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567026126445</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added decoder file along with a test key file&#10;worked on reading, writing, and sorting.&#10;need to take input of specified files, remove punctuation and have it sorted in case sensitive.">
+      <created>1567042749151</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567042749151</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,7 +73,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -78,6 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="repo done" />
-    <option name="LAST_COMMIT_MESSAGE" value="repo done" />
+    <MESSAGE value="added decoder file along with a test key file&#10;worked on reading, writing, and sorting.&#10;need to take input of specified files, remove punctuation and have it sorted in case sensitive." />
+    <option name="LAST_COMMIT_MESSAGE" value="added decoder file along with a test key file&#10;worked on reading, writing, and sorting.&#10;need to take input of specified files, remove punctuation and have it sorted in case sensitive." />
   </component>
 </project>
