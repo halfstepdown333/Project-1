@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9cb7da9-63f6-42bc-b38f-53738ad6f790" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Project_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/wordCountTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Decoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Decoder.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +26,7 @@
   <component name="ProjectId" id="1Q4NnlYfIc1nafOROtApgb59WDx" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Decoder.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wordCountTest.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -37,6 +40,12 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Python.wordCountTest">
+    <list>
+      <item itemvalue="Python.wordCountTest" />
+      <item itemvalue="Python.Project-1" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -84,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567363332306</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="comment insertions">
+      <created>1567363594892</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567363594892</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +122,7 @@
     <MESSAGE value="Removed the punctuation using re.sub()" />
     <MESSAGE value="Fixed the order, list starts at lowercase by using the .lower() method" />
     <MESSAGE value="Started to implement user in put to match the description in the readMe and remoce harcoded name files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Started to implement user in put to match the description in the readMe and remoce harcoded name files." />
+    <MESSAGE value="comment insertions" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment insertions" />
   </component>
 </project>
