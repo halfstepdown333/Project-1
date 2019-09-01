@@ -5,7 +5,7 @@ import sys
 #modified extract from wordCountTest.py in repository
 # set input and output files
 if len(sys.argv) is not 3:
-    print("Correct usage: Decoder.py <input text file> <output file> ") #correct syntax for operating Decoder.py in terminal
+    print("Correct usage: wordCount.py <input text file> <output file> ") #correct syntax for operating wordCount.py in terminal
     exit()
 
 userInput = sys.argv[1] #stores file name (input)

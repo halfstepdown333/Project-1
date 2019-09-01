@@ -5,18 +5,22 @@ This directory contains:
 * a demo program that checks Decoder to the provided keys
 
 This demo contains the following files:
- Decoder.py: Reads and writes to from and to a file the counted  individual words of a text file
+ wordCount.py: Reads and writes to from and to a file the counted  individual words of a text file
  speechTest.txt: Output written to this file when Decoder.py is executed
 
-To test Decoder.py, try:
+To test wordCount.py, try:
 ~~~
-$ python Dcoder.py speech.txt speechTest.txt
+$ python wordCount.py speech.txt speechTest.txt
 ~~~
 
 To check against the provided keys:
 ~~~
 $ python wordCountTest.py declaration.txt myOutput.txt declarationKey.txt
 ~~~
+# References
+*https://www.geeksforgeeks.org/sorted-function-python/
+*https://www.pythonforbeginners.com/files/reading-and-writing-files-in-python
+*https://stackoverflow.com/questions/5843518/remove-all-special-characters-punctuation-and-spaces-from-string
 
 # Original Lab Instructions
 This repository contains the code for the python introduction lab. The

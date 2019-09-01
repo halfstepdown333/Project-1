@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9cb7da9-63f6-42bc-b38f-53738ad6f790" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Project_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Project_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Decoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/wordCount.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordCountTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/wordCountTest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.wordCountTest">
+  <component name="RunManager" selected="Python.Project-1">
     <list>
       <item itemvalue="Python.wordCountTest" />
       <item itemvalue="Python.Project-1" />
@@ -113,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567367362877</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Updated comments and Read me">
+      <created>1567367875725</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1567367875725</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +146,7 @@
     <MESSAGE value="Started to implement user in put to match the description in the readMe and remoce harcoded name files." />
     <MESSAGE value="comment insertions" />
     <MESSAGE value="Tested program using the terminal and created the final test included in speechTest.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tested program using the terminal and created the final test included in speechTest.txt" />
+    <MESSAGE value="Updated comments and Read me" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated comments and Read me" />
   </component>
 </project>
