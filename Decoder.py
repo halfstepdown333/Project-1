@@ -2,22 +2,23 @@ import re
 import os
 import sys
 
-# set input and output files taken from wordCountTest.py in project repo
+#modified extract from wordCountTest.py in repository
+# set input and output files
 if len(sys.argv) is not 3:
     print("Correct usage: Decoder.py <input text file> <output file> ")
     exit()
 
-userInput = sys.argv[1]
-outputFile = sys.argv[2]
+userInput = sys.argv[1] #stores file name (input)
+outputFile = sys.argv[2] #stores file name (output)
 
 #first check to make sure program exists
-if not os.path.exists("wordCount.py"):
-    print ("wordCount.py doesn't exist! Exiting")
+if not os.path.exists(userInput):
+    print ("File doesn't exist! Exiting" % userInput)
     exit()
 
 
 
-with open("speech.txt", "r") as f:
+with open(userInput, "r") as f:
     data = f.read()
     clean = re.sub('[^A-Za-z0-9]+', ' ', data)
 
@@ -31,8 +32,8 @@ for word in words:
     else:
         counts[word.lower()] = 1
 
-tf = open("test.txt", "w")
-for x, y in sorted(counts.items(),key=str, reverse=False):
+tf = open(outputFile, "w+")
+for x, y in sorted(counts.items()):
     tf.write(str(x) + ' : ' + str(y) + '\n')
 
 tf.close()

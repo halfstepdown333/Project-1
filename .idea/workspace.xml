@@ -77,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567362951730</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Started to implement user in put to match the description in the readMe and remoce harcoded name files.">
+      <created>1567363332306</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567363332306</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +105,7 @@
     <MESSAGE value="added decoder file along with a test key file&#10;worked on reading, writing, and sorting.&#10;need to take input of specified files, remove punctuation and have it sorted in case sensitive." />
     <MESSAGE value="Removed the punctuation using re.sub()" />
     <MESSAGE value="Fixed the order, list starts at lowercase by using the .lower() method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed the order, list starts at lowercase by using the .lower() method" />
+    <MESSAGE value="Started to implement user in put to match the description in the readMe and remoce harcoded name files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Started to implement user in put to match the description in the readMe and remoce harcoded name files." />
   </component>
 </project>
